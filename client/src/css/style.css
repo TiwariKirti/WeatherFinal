@@ -1,0 +1,37 @@
+body{
+    margin-top: 30px;
+}
+.txtarea{
+  padding-left: 100px;
+}
+input{
+  margin-left: 300px;
+  width: 300px;
+}
+
+.btn-default{
+  margin-left: 30px;
+}
+.search-form{
+    width: 100%;
+    margin: auto;
+    background: #f4f4f4;
+    padding: 0 20px 20px 20px;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+}
+
+img{
+    height : 80%;
+    width: 80%;
+}
+
+.thumbnail {
+  height : 30%;
+  width: 80%;
+}
+
+.icon {
+  height: 10%;
+  width: 10%;
+}
